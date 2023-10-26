@@ -1,2 +1,4 @@
-# swetugg2023gtg-clouddevelopment-with-azd-jonahandersson
+# Swetugg 2023 Göteborg 
+## Cloud Development with Azure Developer CLI (azd) with Jonah Andersson 
+
 Presentation and pptx for Swetugg Göteborgs talk 
